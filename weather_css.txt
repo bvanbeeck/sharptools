@@ -7,11 +7,11 @@ Spacing: No Gap*/
 
 /*Example 1*/
 /*Left Weather Tile 1X2*/
-.--theme-style-ex1 {border-top-left-radius: 8px; background-image: url(https://github.com/bvanbeeck/sharptools/blob/main/tile_divider.png); background-position: right center; background-repeat: no-repeat; background-size: 100%; background-color: #0099FF !important;}
+.--theme-style-ex1 {border-top-left-radius: 8px; background-image: url("https://github.com/bvanbeeck/sharptools/blob/main/tile_divider.png"); background-position: right center; background-repeat: no-repeat; background-size: 100%; background-color: #0099FF !important;}
 .--theme-style-ex1 .main-content {color: #FFFFFF !important; font-size: 200% !important; margin-top: 6%;}
 
 /*Right Hero Tile 1X1*/
-.--theme-style-ex2 {border-top-right-radius: 8px !important; box-shadow: none; border-radius: 0px; background-image: url(https://github.com/bvanbeeck/sharptools/blob/main/tile_divider.png); background-position: left; background-repeat: no-repeat; background-color: #0099FF !important;}
+.--theme-style-ex2 {border-top-right-radius: 8px !important; box-shadow: none; border-radius: 0px; background-image: url("https://github.com/bvanbeeck/sharptools/blob/main/tile_divider.png"); background-position: left; background-repeat: no-repeat; background-color: #0099FF !important;}
 .--theme-style-ex2 .main-content {color: #FFFFFF !important; font-size: 125% !important; top: -7%;}
 
 /*Bottom Left & Center Hero Tile 1X1*/
@@ -36,15 +36,15 @@ Spacing: No Gap*/
 /*Example 3*/
 /*Left Hero Tile 3X1*/
 .--theme-style-ex8 {box-shadow: none; border-radius: 0px; background-color: transparent !important; color: #FFFFFF !important;}
-.--theme-style-ex8 .main-content {font-size: 75% !important; color: #FFFFFF !important; flex-wrap: wrap; align-content: flex-start !important; top: 0%; left: 0%; text-align: center !important; white-space: normal !important;  background-color: white !important; width: 95% !important; height: 95% !important; margin-left: 2px; margin-right: 2px; background-image: url(https://github.com/bvanbeeck/sharptools/blob/main/weather_image_1.png); background-position: center; background-repeat: no-repeat; background-size: cover; border: 1px solid white; border-radius: 5px; padding-bottom: 10px !important; padding-top: 10px !important;}
+.--theme-style-ex8 .main-content {font-size: 75% !important; color: #FFFFFF !important; flex-wrap: wrap; align-content: flex-start !important; top: 0%; left: 0%; text-align: center !important; white-space: normal !important;  background-color: white !important; width: 95% !important; height: 95% !important; margin-left: 2px; margin-right: 2px; background-image: url("https://github.com/bvanbeeck/sharptools/blob/main/weather_image_1.png"); background-position: center; background-repeat: no-repeat; background-size: cover; border: 1px solid white; border-radius: 5px; padding-bottom: 10px !important; padding-top: 10px !important;}
 
 /*Center Hero Tile 3X1*/
 .--theme-style-ex9 {box-shadow: none; border-radius: 0px; background-color: transparent !important; color: #FFFFFF !important;}
-.--theme-style-ex9 .main-content {font-size: 75% !important; color: #FFFFFF !important; flex-wrap: wrap; align-content: flex-start !important; top: 0%; left: 0%; text-align: center !important; white-space: normal !important;  background-color: white !important; width: 95% !important; height: 95% !important; margin-left: 2px; margin-right: 2px; background-image: url(https://github.com/bvanbeeck/sharptools/blob/main/weather_image_2.png); background-position: center; background-repeat: no-repeat; background-size: cover; border: 1px solid white; border-radius: 5px; padding-bottom: 10px !important; padding-top: 10px !important;}
+.--theme-style-ex9 .main-content {font-size: 75% !important; color: #FFFFFF !important; flex-wrap: wrap; align-content: flex-start !important; top: 0%; left: 0%; text-align: center !important; white-space: normal !important;  background-color: white !important; width: 95% !important; height: 95% !important; margin-left: 2px; margin-right: 2px; background-image: url("https://github.com/bvanbeeck/sharptools/blob/main/weather_image_2.png"); background-position: center; background-repeat: no-repeat; background-size: cover; border: 1px solid white; border-radius: 5px; padding-bottom: 10px !important; padding-top: 10px !important;}
 
 /*Right Hero Tile 3X1*/
 .--theme-style-ex10 {box-shadow: none; border-radius: 0px; background-color: transparent !important; color: #FFFFFF !important;}
-.--theme-style-ex10 .main-content {font-size: 75% !important; color: #FFFFFF !important; flex-wrap: wrap; align-content: flex-start !important; top: 0%; left: 0%; text-align: center !important; white-space: normal !important;  background-color: white !important; width: 95% !important; height: 95% !important; margin-left: 2px; margin-right: 2px; background-image: url(https://github.com/bvanbeeck/sharptools/blob/main/weather_image_3.png); background-position: center; background-repeat: no-repeat; background-size: cover; border: 1px solid white; border-radius: 5px; padding-bottom: 10px !important; padding-top: 10px !important;}
+.--theme-style-ex10 .main-content {font-size: 75% !important; color: #FFFFFF !important; flex-wrap: wrap; align-content: flex-start !important; top: 0%; left: 0%; text-align: center !important; white-space: normal !important;  background-color: white !important; width: 95% !important; height: 95% !important; margin-left: 2px; margin-right: 2px; background-image: url("https://github.com/bvanbeeck/sharptools/blob/main/weather_image_3.png"); background-position: center; background-repeat: no-repeat; background-size: cover; border: 1px solid white; border-radius: 5px; padding-bottom: 10px !important; padding-top: 10px !important;}
 
 /*Example 4*/
 /*Center Weather Tile 2X2*/
