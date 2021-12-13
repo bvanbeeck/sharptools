@@ -1,0 +1,62 @@
+/*Settings
+Size: Scalable
+Columns: 10
+Spacing: No Gap*/
+
+.force-full-width, body #app {background-image: linear-gradient(to bottom right, #666666, #000000); margin: 0px;}
+
+/*Example 1*/
+/*Left Weather Tile 1X2*/
+.--theme-style-ex1 {border-top-left-radius: 8px; background-image: url(tile_divider.png); background-position: right center; background-repeat: no-repeat; background-size: 100%; background-color: #0099FF !important;}
+.--theme-style-ex1 .main-content {color: #FFFFFF !important; font-size: 200% !important; margin-top: 6%;}
+
+/*Right Hero Tile 1X1*/
+.--theme-style-ex2 {border-top-right-radius: 8px !important; box-shadow: none; border-radius: 0px; background-image: url(tile_divider.png); background-position: left; background-repeat: no-repeat; background-color: #0099FF !important;}
+.--theme-style-ex2 .main-content {color: #FFFFFF !important; font-size: 125% !important; top: -7%;}
+
+/*Bottom Left & Center Hero Tile 1X1*/
+.--theme-style-ex3 {box-shadow: none; border-bottom-left-radius: 8px !important; background-image: url(tile_divider.png); background-position: right center; background-repeat: no-repeat; background-size: 150%; background-color: transparent !important;}
+.--theme-style-ex3 .main-content {color: #FFFFFF !important; font-size: 125% !important;}
+
+/*Bottom Right Hero Tile 1X1*/
+.--theme-style-ex4 {box-shadow: none; background-image: url(tile_divider.png); background-position: left; background-repeat: no-repeat; background-size: 150%; background-color: transparent !important;}
+.--theme-style-ex4 .main-content {color: #FFFFFF !important; font-size: 125% !important;}
+
+/*Example 2*/
+/*Left Hero Tile 2X2*/
+.--theme-style-ex5 {box-shadow: none; border-radius: 0px; background-color: transparent !important; background-image: url(weather_bkgrd.png); background-position: left top; background-repeat: no-repeat; background-size: 275%; color: #FFFFFF !important;}
+.--theme-style-ex5 .main-content {font-size: 150% !important; color: #FFFFFF !important; top: -11% !important; left: -6% !important; width: 90% !important; text-align: center !important; white-space: normal !important;}
+.--theme-style-ex5 .tile-footer {font-size: 150%; color: #FFFFFF !important;}
+
+/*Right Hero Tile 2X2*/
+.--theme-style-ex6 {box-shadow: none; border-radius: 0px; background-color: transparent !important; background-image: url(weather_bkgrd.png); background-position: right top; background-repeat: no-repeat; background-size: 275%; color: #FFFFFF !important;}
+.--theme-style-ex6 .main-content {font-size: 175% !important; color: #FFFFFF !important; top: 10% !important; left: 0% !important; width: 95% !important; height: 75% !important; text-align: left !important; white-space: normal !important;}
+.--theme-style-ex6 .tile-footer {font-size: 125%; color: #FFFFFF !important;}
+
+/*Example 3*/
+/*Left Hero Tile 3X1*/
+.--theme-style-ex8 {box-shadow: none; border-radius: 0px; background-color: transparent !important; color: #FFFFFF !important;}
+.--theme-style-ex8 .main-content {font-size: 75% !important; color: #FFFFFF !important; flex-wrap: wrap; align-content: flex-start !important; top: 0%; left: 0%; text-align: center !important; white-space: normal !important;  background-color: white !important; width: 95% !important; height: 95% !important; margin-left: 2px; margin-right: 2px; background-image: url(weather_image_1.png); background-position: center; background-repeat: no-repeat; background-size: cover; border: 1px solid white; border-radius: 5px; padding-bottom: 10px !important; padding-top: 10px !important;}
+
+/*Center Hero Tile 3X1*/
+.--theme-style-ex9 {box-shadow: none; border-radius: 0px; background-color: transparent !important; color: #FFFFFF !important;}
+.--theme-style-ex9 .main-content {font-size: 75% !important; color: #FFFFFF !important; flex-wrap: wrap; align-content: flex-start !important; top: 0%; left: 0%; text-align: center !important; white-space: normal !important;  background-color: white !important; width: 95% !important; height: 95% !important; margin-left: 2px; margin-right: 2px; background-image: url(weather_image_2.png); background-position: center; background-repeat: no-repeat; background-size: cover; border: 1px solid white; border-radius: 5px; padding-bottom: 10px !important; padding-top: 10px !important;}
+
+/*Right Hero Tile 3X1*/
+.--theme-style-ex10 {box-shadow: none; border-radius: 0px; background-color: transparent !important; color: #FFFFFF !important;}
+.--theme-style-ex10 .main-content {font-size: 75% !important; color: #FFFFFF !important; flex-wrap: wrap; align-content: flex-start !important; top: 0%; left: 0%; text-align: center !important; white-space: normal !important;  background-color: white !important; width: 95% !important; height: 95% !important; margin-left: 2px; margin-right: 2px; background-image: url(weather_image_3.png); background-position: center; background-repeat: no-repeat; background-size: cover; border: 1px solid white; border-radius: 5px; padding-bottom: 10px !important; padding-top: 10px !important;}
+
+/*Example 4*/
+/*Center Weather Tile 2X2*/
+.--theme-style-ex7 {box-shadow: none; border-radius: 0px; background-color: transparent !important; background-image: url(current_temp_bkkgrd.png); background-position: center; background-repeat: no-repeat; background-size: 90%; color: #FFFFFF !important;}
+.--theme-style-ex7 .main-content {font-size: 285% !important; color: #FFFFFF !important; top: -15% !important; left: 0% !important; width: 100% !important; height: 100% !important; text-align: center !important; white-space: normal !important;} 
+.--theme-style-ex7 .tile-footer {top: 45%; left: 0%; }
+.--theme-style-ex7 .tile-footer span {font-size: 225%; color: #FFFFFF !important; width: 100%; text-align: center !important; } 
+
+/*Left Hero Tile 2X1*/
+.--theme-style-ex7left {box-shadow: none; border-radius: 0px; background-color: transparent !important; color: #FFFFFF !important;}
+.--theme-style-ex7left .main-content {font-size: 150% !important; color: #FFFFFF !important; top: 15%; left: 0%; width: 100% !important; height: 100% !important; text-align: right !important; white-space: normal !important;}
+
+/*Right Hero Tile 2X1*/
+.--theme-style-ex7right {box-shadow: none; border-radius: 0px; background-color: transparent !important; color: #FFFFFF !important;}
+.--theme-style-ex7right .main-content {font-size: 150% !important; color: #FFFFFF !important; top: 15%; left: 0%; width: 100% !important; height: 100% !important; text-align: left !important; white-space: normal !important;}
